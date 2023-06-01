@@ -33,19 +33,14 @@ h1 {
 
 .movie__title {
   font-size: 1rem;
-  color: navy;
   margin-bottom: 0.4rem;
-}
-
-.movie__title a {
-  color: navy;
 }
 
 .movie__year {
   margin-top: 0.4rem;
   margin-bottom: 0.4rem;
   font-weight: bold;
-  color: darkgray;
+  opacity: 0.6;
 }
 
 .movie__genre {
